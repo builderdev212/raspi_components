@@ -22,7 +22,7 @@ copyright = '2021, builderdev212'
 author = 'builderdev212'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.9'
+release = '1.3.2'
 
 
 # -- General configuration ---------------------------------------------------
