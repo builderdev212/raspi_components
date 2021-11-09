@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'raspi_components'
-copyright = '2021, Builder212'
-author = 'Builder212'
+copyright = '2021, builderdev212'
+author = 'builderdev212'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.9'
