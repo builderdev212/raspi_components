@@ -6,13 +6,13 @@ with open("README.md", "r") as fh:
 setup(
     name="raspi_components",
     version="1.3.1",
-    author="Builder212",
+    author="builderdev212",
     description="A python package for using certain components with the raspberry pi.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     license="MIT",
     keywords="raspberry pi",
-    url="https://github.com/Buidler212/package_tutorial",
+    url="https://github.com/builderdev212/package_tutorial",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
